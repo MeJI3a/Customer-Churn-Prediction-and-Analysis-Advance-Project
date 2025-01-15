@@ -25,15 +25,6 @@ This project focuses on customer churn prediction and analysis using a combinati
   - Built a Logistic Regression model using features like age, spending, and support calls.
   - Conducted feature engineering (spending segments, high support flags).
   - Exported model predictions and analyzed churn by various categories using Python visualizations.
-
-### 3. **Power BI Dashboard**
-A Power BI dashboard will be created to complement the analysis. It will feature:
-- Interactive filters for exploring churn trends.
-- Insights into subscription types, customer segments, and churn likelihood.
-- Visual representations of model predictions.
-
-**Power BI Analysis Link**: [Unknown]
-
 ---
 
 ## Key Steps
