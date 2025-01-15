@@ -1,4 +1,4 @@
-# Project 6:Customer Churn Prediction and Analysis
+# Customer Churn Prediction and Analysis
 
 ## Introduction
 This project focuses on customer churn prediction and analysis using a combination of SQL and Python, and a Power BI dashboard for interactive visualizations. By integrating and analyzing customer demographic, usage, financial, and subscription data, the project identifies churn patterns and builds a predictive model to inform retention strategies.
